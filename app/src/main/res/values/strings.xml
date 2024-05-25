@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">SysMobProjekt</string>
+    <string name="addButton">Dodaj</string>
+    <string name="searchButton">Szukaj</string>
+    <string name="logoDescription">Logo</string>
+    <!-- opisy kategorii -->
+    <string name="electro">Elektronika</string>
+    <string name="gaming">Gaming</string>
+    <string name="furniture">Dom i mieszkanie</string>
+    <string name="clothes">Moda</string>
+    <string name="diy">Ogród i majsterkowanie</string>
+    <string name="health">Zdrowie i uroda</string>
+    <string name="family">Rodzina i dzieci</string>
+    <string name="grocery">Artykuły spożywcze</string>
+    <string name="travel">Podróźe</string>
+    <string name="moto">Motoryzacja</string>
+    <string name="culture">Kultura i rozrywka</string>
+    <string name="sport">Sport i turystyka</string>
+    <string name="internet">Internet i usługi telekomunikacyjne</string>
+    <string name="finance">Finanse i ubezpieczenia</string>
+    <string name="subscriptions">Usługi i subskrypcje</string>
+    <!-- do przyciskow glosowania -->
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="clickButton">Przejdź do okazji!</string>
+    <!-- items 1 -->
+    <string name="item1rating">3485</string>
+    <string name="item1date">18 kwietnia 2024</string>
+    <string name="item1name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item1desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item1price">39.99 PLN</string>
+    <string name="item1oldprice">zamiast 59.99 PLN</string>
+
+    <!-- items 2 -->
+    <string name="item2rating">4366</string>
+    <string name="item2date">22 maja 2024</string>
+    <string name="item2name">TOYOTA CAMRY 2,5 HYBRID 218KM 2023 -36000PLN</string>
+    <string name="item2desc">Ostatnie sztuki białych camry w wersji comfort z 2023r czekają na magazynie centralnym Toyoty.
+Cena regularna 182 000PLN
+Cena wyprzedaż rocznika 163 500PLN
+Cena specjalna do wyczerpania zapasów...</string>
+    <string name="item2price">145 590 PLN</string>
+    <string name="item2oldprice">zamiast 181 590 PLN</string>
+
+    <!-- items 3 -->
+    <string name="item3rating">3485</string>
+    <string name="item3date">18 kwietnia 2024</string>
+    <string name="item3name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item3desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item3price">39.99 PLN</string>
+    <string name="item3oldprice">zamiast 59.99 PLN</string>
+
+    <!-- items 4 -->
+    <string name="item4rating">3485</string>
+    <string name="item4date">18 kwietnia 2024</string>
+    <string name="item4name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item4desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item4price">39.99 PLN</string>
+    <string name="item4oldprice">zamiast 59.99 PLN</string>
+
+    <!-- items 5 -->
+    <string name="item5rating">3485</string>
+    <string name="item5date">18 kwietnia 2024</string>
+    <string name="item5name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item5desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item5price">39.99 PLN</string>
+    <string name="item5oldprice">zamiast 59.99 PLN</string>
+
+    <!-- items 6 -->
+    <string name="item6rating">3485</string>
+    <string name="item6date">18 kwietnia 2024</string>
+    <string name="item6name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item6desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item6price">39.99 PLN</string>
+    <string name="item6oldprice">zamiast 59.99 PLN</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

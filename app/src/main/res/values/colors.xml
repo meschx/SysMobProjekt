@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar">#FF35373B</color>
+    <color name="pepper_orange">#FFFF7900</color>
+    <color name="pepper_gray">#FF4A4B4F</color>
+    <color name="pepper_dark">#FF1D1F20</color>
+    <color name="pepper_category_buttons">#FF35373B</color>
+    <color name="pepper_red">#FFE00034</color>
+    <color name="pepper_blue">#FF1F7ECB</color>
+    <color name="itembackgroud">#FFFFFFFF</color>
+</resources>

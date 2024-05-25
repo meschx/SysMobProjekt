@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    app:layout_marginBaseline="8dp"
+    tools:context=".ListFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/pepper_dark"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:orientation="horizontal"
+            android:padding="2dp">
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/electro"
+                android:textColor="@color/white"
+                app:icon="@drawable/electro_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/gaming"
+                android:textColor="@color/white"
+                app:icon="@drawable/gaming_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/furniture"
+                android:textColor="@color/white"
+                app:icon="@drawable/furniture_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/clothes"
+                android:textColor="@color/white"
+                app:icon="@drawable/clothes_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/diy"
+                android:textColor="@color/white"
+                app:icon="@drawable/diy_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/health"
+                android:textColor="@color/white"
+                app:icon="@drawable/health_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/family"
+                android:textColor="@color/white"
+                app:icon="@drawable/family_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/grocery"
+                android:textColor="@color/white"
+                app:icon="@drawable/grocery_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/travel"
+                android:textColor="@color/white"
+                app:icon="@drawable/travel_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/moto"
+                android:textColor="@color/white"
+                app:icon="@drawable/moto_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/culture"
+                android:textColor="@color/white"
+                app:icon="@drawable/culture_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button29"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/sport"
+                android:textColor="@color/white"
+                app:icon="@drawable/sport_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button30"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/internet"
+                android:textColor="@color/white"
+                app:icon="@drawable/internet_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button31"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/finance"
+                android:textColor="@color/white"
+                app:icon="@drawable/finance_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_marginEnd="16dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/pepper_category_buttons"
+                android:fontFamily="@font/ubuntu"
+                android:text="@string/subscriptions"
+                android:textColor="@color/white"
+                app:icon="@drawable/subscriptions_icon"
+                app:iconTint="@color/white"
+                tools:ignore="ButtonStyle" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</FrameLayout>
