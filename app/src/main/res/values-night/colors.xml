@@ -11,5 +11,5 @@
     <color name="pepper_blue">#FF1F7ECB</color>
     <color name="itembackgroud">#FFFFFFFF</color>
     <color name="pepper_orange2">#FE7900</color>
-    <color name="itembackground">#FFFFFFFF</color>
+    <color name="itembackground">#FF000000</color>
 </resources>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">SysMobProjekt</string>
+    <string name="addButton">Dodaj</string>
+    <string name="searchButton">Szukaj</string>
+    <!-- opisy kategorii -->
+    <string name="electro">Elektronika</string>
+    <string name="furniture">Dom i mieszkanie</string>
+    <string name="clothes">Moda</string>
+    <string name="diy">Ogród i majsterkowanie</string>
+    <string name="health">Zdrowie i uroda</string>
+    <string name="family">Rodzina i dzieci</string>
+    <string name="grocery">Artykuły spożywcze</string>
+    <string name="travel">Podróźe</string>
+    <string name="moto">Motoryzacja</string>
+    <string name="culture">Kultura i rozrywka</string>
+    <string name="sport">Sport i turystyka</string>
+    <string name="internet">Internet i usługi telekomunikacyjne</string>
+    <string name="finance">Finanse i ubezpieczenia</string>
+    <string name="subscriptions">Usługi i subskrypcje</string>
+    <!-- do przyciskow glosowania -->
+    <string name="clickButton">Przejdź do okazji!</string>
+    <!-- items 1 -->
+    <string name="item1date">18 kwietnia 2024</string>
+    <string name="item1name">Allegro Smart na rok - 39.90 PLN</string>
+    <string name="item1desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
+Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
+    <string name="item1oldprice">zamiast 59.99 PLN</string>
+
+    <!-- items 2 -->
+    <string name="item2date">22 maja 2024</string>
+    <string name="item2desc">Ostatnie sztuki białych camry w wersji comfort z 2023r czekają na magazynie centralnym Toyoty.
+Cena regularna 182 000PLN
+Cena wyprzedaż rocznika 163 500PLN
+Cena specjalna do wyczerpania zapasów...</string>
+    <string name="item2oldprice">zamiast 181 590 PLN</string>
+
+    <!-- items 3 -->
+    <string name="item3date">24 maja 2024</string>
+    <string name="item3name">Lidl - Wszystkie piwa w butelce 8 w cenie 4 (29.05)</string>
+    <string name="item3desc">Powoli zbliża się długi weekend, zatem zwyczajem promocja na piwo
+Tylko w środę 29.05
+Wymagana aplikacja
+Limit 8 butelek na kupon
+Można mieszać</string>
+    <string name="item3price">8 w cenie 4</string>
+    <string name="item3oldprice">promocja</string>
+
+    <!-- items 4 -->
+    <string name="item4date">26 maja 2024</string>
+    <string name="item4name">Apple Watch opaska pasek Solo Pride Edition</string>
+    <string name="item4desc">W tym roku inspiracją dla nowej plecionej opaski Solo Pride Edition jest światło – światło, które zapewnia widoczność, łączy społeczności i pozwala każdej osobie ze społeczności...</string>
+    <string name="item4price">529 PLN</string>
+    <string name="item4oldprice">zamiast 1099 PLN</string>
+
+    <!-- items 5 -->
+    <string name="item5date">18 kwietnia 2024</string>
+    <string name="item5name">Gry: Package Inc - Cargo Simulator oraz Traffix: Traffic Simulator za darmo</string>
+    <string name="item5desc">Traffix: Traffic Simulator - za darmo
+Package Inc - Cargo Simulator - za darmo...
+</string>
+    <string name="item5price">ZA DARMO</string>
+    <string name="item5oldprice">zamiast 18 PLN</string>
+
+    <!-- items 6 -->
+    <string name="item6date">20 maja 2024</string>
+    <string name="item6name">Automatyczne drzwi do kurnika Zasilane energią słoneczną</string>
+    <string name="item6desc">Zdalnie sterowane zasilane energią słoneczną, posiadają timer...</string>
+    <string name="item6oldprice">zamiast 400 PLN</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="imagedesc">Zdjęcie okazji</string>
+</resources>

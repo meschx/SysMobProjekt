@@ -1,85 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SysMobProjekt</string>
-    <string name="addButton">Dodaj</string>
-    <string name="searchButton">Szukaj</string>
-    <string name="logoDescription">Logo</string>
-    <!-- opisy kategorii -->
-    <string name="electro">Elektronika</string>
-    <string name="gaming">Gaming</string>
-    <string name="furniture">Dom i mieszkanie</string>
-    <string name="clothes">Moda</string>
-    <string name="diy">Ogród i majsterkowanie</string>
-    <string name="health">Zdrowie i uroda</string>
-    <string name="family">Rodzina i dzieci</string>
-    <string name="grocery">Artykuły spożywcze</string>
-    <string name="travel">Podróźe</string>
-    <string name="moto">Motoryzacja</string>
-    <string name="culture">Kultura i rozrywka</string>
-    <string name="sport">Sport i turystyka</string>
-    <string name="internet">Internet i usługi telekomunikacyjne</string>
-    <string name="finance">Finanse i ubezpieczenia</string>
-    <string name="subscriptions">Usługi i subskrypcje</string>
-    <!-- do przyciskow glosowania -->
-    <string name="plus">+</string>
-    <string name="minus">-</string>
-    <string name="clickButton">Przejdź do okazji!</string>
-    <!-- items 1 -->
-    <string name="item1rating">3485</string>
-    <string name="item1date">18 kwietnia 2024</string>
-    <string name="item1name">Allegro Smart na rok - 39.90 PLN</string>
-    <string name="item1desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
-Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
-    <string name="item1price">39.99 PLN</string>
-    <string name="item1oldprice">zamiast 59.99 PLN</string>
-
-    <!-- items 2 -->
-    <string name="item2rating">4366</string>
-    <string name="item2date">22 maja 2024</string>
-    <string name="item2name">TOYOTA CAMRY 2,5 HYBRID 218KM 2023 -36000PLN</string>
-    <string name="item2desc">Ostatnie sztuki białych camry w wersji comfort z 2023r czekają na magazynie centralnym Toyoty.
-Cena regularna 182 000PLN
-Cena wyprzedaż rocznika 163 500PLN
-Cena specjalna do wyczerpania zapasów...</string>
-    <string name="item2price">145 590 PLN</string>
-    <string name="item2oldprice">zamiast 181 590 PLN</string>
-
-    <!-- items 3 -->
-    <string name="item3rating">3485</string>
-    <string name="item3date">18 kwietnia 2024</string>
-    <string name="item3name">Allegro Smart na rok - 39.90 PLN</string>
-    <string name="item3desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
-Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
-    <string name="item3price">39.99 PLN</string>
-    <string name="item3oldprice">zamiast 59.99 PLN</string>
-
-    <!-- items 4 -->
-    <string name="item4rating">3485</string>
-    <string name="item4date">18 kwietnia 2024</string>
-    <string name="item4name">Allegro Smart na rok - 39.90 PLN</string>
-    <string name="item4desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
-Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
-    <string name="item4price">39.99 PLN</string>
-    <string name="item4oldprice">zamiast 59.99 PLN</string>
-
-    <!-- items 5 -->
-    <string name="item5rating">3485</string>
-    <string name="item5date">18 kwietnia 2024</string>
-    <string name="item5name">Allegro Smart na rok - 39.90 PLN</string>
-    <string name="item5desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
-Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
-    <string name="item5price">39.99 PLN</string>
-    <string name="item5oldprice">zamiast 59.99 PLN</string>
-
-    <!-- items 6 -->
-    <string name="item6rating">3485</string>
-    <string name="item6date">18 kwietnia 2024</string>
-    <string name="item6name">Allegro Smart na rok - 39.90 PLN</string>
-    <string name="item6desc">UWAGA - oferta dla tych, którym skutecznie wygasł Smart łącznie z 14 dniowym okresem wypowiedzenia.
-Promocja trwa do 31 maja, więc mogą się załapać Ci, którym w tym okresie Smart wygaśnie...</string>
-    <string name="item6price">39.99 PLN</string>
-    <string name="item6oldprice">zamiast 59.99 PLN</string>
-
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addButton">Add</string>
+    <string name="searchButton">Search</string>
+    <string name="electro">Electronics</string>
+    <string name="furniture">House and home</string>
+    <string name="clothes">Fashion</string>
+    <string name="diy">Garden and DIY</string>
+    <string name="health">Health and beauty</string>
+    <string name="family">Family and children</string>
+    <string name="grocery">Groceries</string>
+    <string name="travel">Travel</string>
+    <string name="moto">Automotive</string>
+    <string name="culture">Culture and entertainment</string>
+    <string name="sport">Sport and tourism</string>
+    <string name="internet">Internet and telecommunications</string>
+    <string name="finance">Finance and insurance</string>
+    <string name="subscriptions">Services and subscriptions</string>
+    <string name="clickButton">Go to the occasion!</string>
+    <string name="item1date">18 April 2024</string>
+    <string name="item1name">Allegro Smart for one year - 39.90 PLN</string>
+    <string name="item1desc">PLEASE NOTE - the offer is for those whose Smart has effectively expired including the 14 day notice period. The promotion runs until 31 May, so those for whom Smart will expire during this period can catch on....</string>
+    <string name="item1oldprice">instead of 59.99 PLN</string>
+    <string name="item2date">22 May 2024</string>
+    <string name="item2desc">The last units of the 2023 white camry comfort version are waiting at Toyota\'s central warehouse. Regular price 182,000PLN Sale price 163 500PLN Special price while stocks last...</string>
+    <string name="item2oldprice">instead of 181 590 PLN</string>
+    <string name="item3date">24 May 2024</string>
+    <string name="item3name">Lidl - All beers in a bottle of 8 for the price of 4 (29.05)</string>
+    <string name="item3desc">The long weekend is slowly approaching, so customary beer promotion Only on Wednesday 29.05 Application required Limit of 8 bottles per voucher Can be mixed</string>
+    <string name="item3price">8 for the price of 4</string>
+    <string name="item3oldprice">promotion</string>
+    <string name="item4date">26 May 2024</string>
+    <string name="item4name">Apple Watch band Solo Pride Edition</string>
+    <string name="item4desc">This year, the inspiration for the new braided Solo Pride Edition wristband is light - light that provides visibility, connects communities and allows each person in the community to...</string>
+    <string name="item4oldprice">instead of 1099 PLN</string>
+    <string name="item5date">18 April 2024</string>
+    <string name="item5name">Games: Package Inc - Cargo Simulator and Traffix: Traffic Simulator for free</string>
+    <string name="item5desc">Traffix: Traffic Simulator - for free Package Inc - Cargo Simulator - free...</string>
+    <string name="item5price">FREE</string>
+    <string name="item5oldprice">instead of 18 PLN</string>
+    <string name="item6date">20 May 2024</string>
+    <string name="item6name">Automatic solar-powered poultry house door</string>
+    <string name="item6desc">Zdalnie sterowane zasilane energią słoneczną, posiadają timer...</string>
+    <string name="item6oldprice">instead of PLN 400</string>
+    <string name="imagedesc">Photo of the occasion</string>
+    <string name="item4price">529 PLN</string>
+    <string name="item1rating" translatable="false">3395</string>
+    <string name="item2rating" translatable="false">1458</string>
+    <string name="item3rating" translatable="false">2137</string>
+    <string name="item4rating" translatable="false">-256</string>
+    <string name="item5rating" translatable="false">574</string>
+    <string name="item6rating" translatable="false">1312</string>
+    <string name="gaming" translatable="false">Gaming</string>
+    <string name="item1price" translatable="false">39.99 PLN</string>
+    <string name="item2name" translatable="false">TOYOTA CAMRY 2,5 HYBRID 218KM 2023 -36000PLN</string>
+    <string name="item2price" translatable="false">145 590 PLN</string>
+    <string name="item6price" translatable="false">280 PLN</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="logoDescription" translatable="false">Logo</string>
 </resources>

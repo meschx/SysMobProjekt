@@ -19,7 +19,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="80dp"
             android:contentDescription="@string/imagedesc"
-            android:src="@drawable/itemimage2"
+            android:src="@drawable/itemimage4"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -40,7 +40,8 @@
                 android:layout_weight="1"
                 android:backgroundTint="@color/pepper_blue"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/minus" />
+                android:text="@string/minus"
+                android:textColor="@color/white" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -48,7 +49,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/item2rating"
+                android:text="@string/item4rating"
                 android:textAlignment="center" />
 
             <Button
@@ -58,7 +59,8 @@
                 android:layout_weight="1"
                 android:backgroundTint="@color/pepper_red"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/plus" />
+                android:text="@string/plus"
+                android:textColor="@color/white" />
         </LinearLayout>
 
         <TextView
@@ -68,7 +70,7 @@
             android:layout_marginTop="32dp"
             android:layout_marginEnd="16dp"
             android:fontFamily="@font/ubuntu"
-            android:text="@string/item2date"
+            android:text="@string/item4date"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toEndOf="@+id/linearLayout"
@@ -91,7 +93,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/item2name"
+                android:text="@string/item4name"
                 android:textSize="20sp" />
 
             <TextView
@@ -99,7 +101,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/item2price"
+                android:text="@string/item4price"
                 android:textColor="@color/pepper_orange"
                 android:textSize="24sp"
                 android:textStyle="bold" />
@@ -109,7 +111,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/ubuntu"
-                android:text="@string/item2oldprice"
+                android:text="@string/item4oldprice"
                 android:textSize="14sp" />
         </LinearLayout>
 
@@ -127,7 +129,7 @@
                 android:id="@+id/textView11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/item2desc"
+                android:text="@string/item4desc"
                 android:textAlignment="center" />
         </LinearLayout>
 
@@ -144,7 +146,7 @@
             app:layout_constraintTop_toBottomOf="@+id/linearLayout3" />
 
         <View
-            android:id="@+id/divider"
+            android:id="@+id/divider2"
             android:layout_width="409dp"
             android:layout_height="1dp"
             android:layout_marginTop="16dp"

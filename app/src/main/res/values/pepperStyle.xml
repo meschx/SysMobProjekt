@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="pepper" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/pepper_dark</item>
+        <item name="android:statusBarColor">
+            ?attr/colorPrimary
+        </item>
+        <item name="android:navigationBarColor">
+            ?attr/colorPrimary
+        </item>
+    </style>
+
+</resources>
